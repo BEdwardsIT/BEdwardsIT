@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/BEdwardsIT/laburl)
+  - [Active Directory Home Lab](https://github.com/BEdwardsIT/ActiveDirectoryLab)
 
 <h2>  Certificates</h2>
 
