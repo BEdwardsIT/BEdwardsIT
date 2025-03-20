@@ -4,6 +4,8 @@
 
   - [Active Directory Home Lab](https://github.com/BEdwardsIT/ActiveDirectoryLab)
 
+  - [SOC Home Lab](http://github.com/BEdwardsIT/SOCLab) *currently in progress*
+
 <h2>  Certificates</h2>
 
 -<a>[CompTIA Network+](https://www.credly.com/badges/8cc7ca83-0a03-4562-b4aa-430628736f4a/public_url)</a>
