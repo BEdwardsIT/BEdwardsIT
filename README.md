@@ -4,7 +4,6 @@
 
   - [Active Directory Home Lab](https://github.com/BEdwardsIT/ActiveDirectoryLab)
 
-  - [SOC Home Lab](http://github.com/BEdwardsIT/SOCLab) *currently in progress*
 
 <h2>  Certificates</h2>
 
