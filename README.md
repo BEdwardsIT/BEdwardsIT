@@ -2,7 +2,9 @@
 
 <h2>👨‍💻Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/BEdwardsIT/ActiveDirectoryLab)
+- <a>[Active Directory Home Lab](https://github.com/BEdwardsIT/ActiveDirectoryLab)</a>
+
+- <a>[Ethical Hacking for Beginners](https://github.com/BEdwardsIT/EthicalHacking)</a>
 
 
 <h2>  Certificates</h2>
