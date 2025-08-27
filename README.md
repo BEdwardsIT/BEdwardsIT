@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bruce! <br/><a href="https://github.com/BEdwardsIT">IT/ Help Desk Support</a>, <a href="https://www.linkedin.com/in/bruce-edwards-1b009345/">Aspiring Ethical Hacker</a></a></h1>
+<h1>Hi, I'm Bruce! <br/><a href="https://github.com/BEdwardsIT">IT/ Help Desk Support</a>, <a href="https://www.linkedin.com/in/bruce-edwards-1b009345/">Cybersecurity/ Ethical Hacking Practitioner</a></a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
