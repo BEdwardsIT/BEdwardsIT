@@ -6,9 +6,7 @@
 
 
 
-<h2>  Certificates</h2>
-
-<a>[TCM Security Practical Help Desk]
+<h2>Certificates</h2>
 
 <a>[CompTIA Network+](https://www.credly.com/badges/8cc7ca83-0a03-4562-b4aa-430628736f4a/public_url)</a>
 
