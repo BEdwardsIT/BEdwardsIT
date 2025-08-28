@@ -8,7 +8,7 @@
 
 <h2>Certificates</h2>
 
-<a>[TCM Security Practical Help Desk](https://imgur.com/a/xaWO8zc)<a/>
+<a>[TCM Security Practical Help Desk](<blockquote class="imgur-embed-pub" lang="en" data-id="a/xaWO8zc" data-context="false" ><a href="//imgur.com/a/xaWO8zc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)<a/>
 
 <a>[CompTIA Network+](https://www.credly.com/badges/8cc7ca83-0a03-4562-b4aa-430628736f4a/public_url)</a>
 
